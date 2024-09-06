@@ -6,3 +6,6 @@ GreenDenGreenDen is a clean, responsive web page designed and developed exclusiv
 **Tailwind CSS**: Leveraged the utility-first CSS framework to build a highly customizable and maintainable codebase.
 
 **Fully Responsive** Design: Ensures that the webpage looks great on any device, from desktops to mobile phones.
+
+JavaScript: Implementing search functionality.
+
